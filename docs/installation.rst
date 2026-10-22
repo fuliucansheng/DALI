@@ -4,7 +4,7 @@ Installation
 Prerequisites
 -------------
 
-1. Linux x64.
+1. Linux; see the :doc:`support matrix <support_matrix>` for supported x86_64, aarch64 SBSA, and Jetson configurations.
 2. `**NVIDIA Driver** <https://www.nvidia.com/drivers>`_ supporting `CUDA 12.0 <https://developer.nvidia.com/cuda-downloads>`__
    or later (i.e. 525.60 or later driver releases).
 3. `**CUDA Toolkit** <https://developer.nvidia.com/cuda-downloads>`_ - the toolkit is linked
